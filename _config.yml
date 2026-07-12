@@ -1,1 +1,2 @@
-theme: jekyll-theme-cayman
+# GitHub Pages — disable Jekyll processing for static HTML site
+plugins: []
